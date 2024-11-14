@@ -1,3 +1,3 @@
 file=open('file.txt','r')
-print(file.read(100000000))
+print(file.read(33))
 file.close
